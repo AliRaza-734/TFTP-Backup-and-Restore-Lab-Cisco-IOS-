@@ -252,7 +252,7 @@ Building configuration...
 - Hostname changing from `Router` to `R1` after the restore confirms it worked.
 
 ## Tools Used
-Cisco IOS CLI, TFTP server, Cisco Packet Tracer / GNS3
+Cisco IOS CLI, TFTP server.
 
 ## Author
 **Ali Raza Choudhary**
